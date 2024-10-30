@@ -3,7 +3,7 @@
 ## Steps 1:
 clone the repository
 
-git clone https://github.com/
+git clone https://github.com/Idur69/Llama2-on-CPU-Machine.git
 ## Steps 2:
 Create a virtual environment
 ```bash
@@ -30,4 +30,3 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 ## From the following link:
 
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
-Llama2-on-CPU-Machine/README.md
