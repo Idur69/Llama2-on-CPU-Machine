@@ -28,5 +28,6 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 
 
 ## From the following link:
+
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
-Llama2-on-CPU-Machine/README.md at main · entbappy/Llama2-on-CPU-Machine
+Llama2-on-CPU-Machine/README.md
